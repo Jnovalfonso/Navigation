@@ -2,6 +2,10 @@
   "expo": {
     "name": "Navigation",
     "slug": "Navigation",
-    "version": "1.0.0"
+    "scheme": "Navigation",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
